@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE                                   COMMAND                  CREATED       STATUS       PORTS                                         NAMES
+e42c85068342   ghcr.io/matatonic/openedai-speech-min   "/bin/sh -c 'bash st…"   6 hours ago   Up 6 hours   0.0.0.0:8000->8000/tcp, [::]:8000->8000/tcp   openedai-speech-main-server-1
